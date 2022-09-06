@@ -1,0 +1,337 @@
+﻿
+@{
+    ViewBag.Title = "Label";
+}
+
+<style>
+    .bg-print-btn-color {
+        background-color: limegreen;
+        color: white;
+    }
+
+    .bg-logout-btn-color {
+        background-color: orangered;
+        color: white;
+    }
+
+    .bg-home-btn-color {
+        background-color: dodgerblue;
+        color: white;
+    }
+
+    .dropdown-control {
+        display: block;
+        width: 100%;
+        padding: 0.375rem 0.75rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #212529;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        /*        -webkit-appearance: none;*/
+        -moz-appearance: none;
+        /*  appearance: none;*/
+        border-radius: 0.25rem;
+        /*    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;*/
+    }
+    .hidden {
+        display: none;
+    }
+</style>
+@using (Html.BeginForm("PrintRackLabel", "Home"))
+{
+    @*<button type="button" class="btn bg-primary btn-block text-uppercase mb-2 rounded-pill shadow-sm" style="color:white;margin-left:1000px!important" onclick="itemLabel()">Item Label</button>*@
+
+    <div class="col-sm-12 bg-light" style="margin-top:10px !important">
+
+        <div class="row" style="margin-top:10px !important; margin-left:20px !important">
+            <div class="col-sm-3">
+                <label style="font-size:12px !important;  font-weight:bold">OrderKey</label>
+                <input id="plabel1" type="number" placeholder="OrderKey" onchange="focusevent(1)" autocomplete="off" class="form-control border-0 shadow-sm px-4 text-primary">
+            </div>
+            <div class="col-sm-3">
+                <label style="font-size:12px !important; font-weight:bold">Item</label>
+                <input id="plabel2" type="text" placeholder="Item" onchange="focusevent(2)" autocomplete="off" class="form-control border-0 shadow-sm px-4 text-primary">
+            </div>
+            <div class="col-sm-3">
+                <label style="font-size:12px !important; font-weight:bold">Inner Label Count</label>
+                <input id="plabel3" type="number" placeholder="Inner Label Count" onchange="focusevent(3)" autocomplete="off" class="form-control border-0 shadow-sm px-4 text-primary">
+            </div>
+            <div class="col-sm-3">
+                <label style="font-size:12px !important; font-weight:bold">Inner Qty</label>
+                <input id="plabel4" type="number" placeholder="InnerQty" autocomplete="off" onchange="focusevent(4)" class="form-control border-0 shadow-sm px-4 text-primary">
+            </div>
+      
+
+        </div>
+        <div class="row" style="margin-top: 10px !important; margin-left: 20px !important">
+            <div class="col-sm-3">
+                <label style="font-size:12px !important; font-weight:bold">Outer Label Count</label>
+                <input id="plabel5" type="number" placeholder="OuterLabel" autocomplete="off" onchange="focusevent(5)" class="form-control border-0 shadow-sm px-4 text-primary">
+            </div>
+            <div class="col-sm-3">
+                <label style="font-size:12px !important; font-weight:bold">Outer Qty</label>
+                <input id="plabel6" type="number" placeholder="Outer Qty" autocomplete="off" onchange="focusevent(6)" class="form-control border-0 shadow-sm px-4 text-primary">
+            </div>
+            <div class="col-sm-3">
+                <label style="font-size:12px !important; font-weight:bold">Lot</label>
+                <input id="plabel7" type="text" autocomplete="off" placeholder="Lot" onchange="focusevent(7)" class="form-control border-0 shadow-sm px-4 text-primary">
+            </div>
+            <div class="col-sm-3">
+                <label style="font-size:12px !important; font-weight:bold">Weight</label>
+                <input id="plabel8" type="text" placeholder="Weight" autocomplete="off" onchange="focusevent(8)" class="form-control border-0 shadow-sm px-4 text-primary">
+            </div>
+       
+        </div>
+        <div class="row" style="margin-top: 10px !important; margin-left: 20px !important">
+            <div class="col-sm-3">
+                <label style="font-size:12px !important; font-weight:bold">Manufacture Date</label>
+
+                <input id="plabel9" type="date" onkeypress="return false" autocomplete="off" onchange="focusevent(9)" placeholder="Manufacture Date" class="form-control border-0 shadow-sm px-4 text-primary">
+            </div>
+            <div class="col-sm-3">
+                <label style="font-size:12px !important; font-weight:bold">DateCode</label>
+                <input id="plabel10" type="date" onkeypress="return false"  autocomplete="off" placeholder="DateCode" onchange="focusevent(10)" class="form-control border-0 shadow-sm px-4 text-primary">
+            </div>
+            <div class="col-sm-3">
+                <label style="font-size:12px !important; font-weight:bold">LineNo</label>
+                <input id="plabel12" type="text" placeholder="LineNo" autocomplete="off" onchange="focusevent(8)" class="form-control border-0 shadow-sm px-4 text-primary">
+            </div>
+         
+        </div>
+
+        <div class="row" style="margin-top: 10px !important; margin-left: 20px !important">
+            <div class="col-sm-3">
+                <label style="font-size:12px !important; font-weight:bold">Country of Orgin</label>
+                <br />
+                <input type="radio" id="coo1" name="contact" value="China">
+                <label style="font-size:12px !important; font-weight:bold" for="email">China(CN)</label>
+                <br />
+                <input type="radio" id="coo2" name="contact" value="Thailand">
+                <label style="font-size:12px !important; font-weight:bold" for="email">Thailand(TH)</label>
+                <br />
+                <input type="radio" id="coo3" name="contact" value="Indonesia">
+                <label style="font-size:12px !important; font-weight:bold" for="email">Indonesia(ID)</label>
+                <br />
+                <input type="radio" id="coo13" name="contact" value="Philippines">
+                <label style="font-size:12px !important; font-weight:bold" for="email">Philippines(PH)</label>
+
+
+            </div>
+            <div class="col-sm-3" style="margin-top:20px !important">
+                <input type="radio" id="coo4" name="contact" value="Japan">
+                <label style="font-size:12px !important; font-weight:bold" for="email">Japan(JP)</label>
+                <br />
+                <input type="radio" id="coo5" name="contact" value="Malaysia">
+                <label style="font-size:12px !important; font-weight:bold" for="email">Malaysia(MY)</label>
+
+                <br />
+                <input type="radio" id="coo6" name="contact" value="North Korea">
+                <label style="font-size:12px !important; font-weight:bold" for="email">North Korea(KP)</label>
+                <br />
+                <input type="radio" id="coo14" name="contact" value="Not Applicable">
+                <label style="font-size:12px !important; font-weight:bold" for="email">Not Applicable(NA)</label>
+
+
+
+            </div>
+            <div class="col-sm-3" style="margin-top:25px !important">
+                <input type="radio" id="coo7" name="contact" value="South Korea">
+                <label style="font-size:12px !important; font-weight:bold" for="email">South Korea(KR)</label>
+                <br />
+                <input type="radio" id="coo8" name="contact" value="Singapore">
+                <label style="font-size:12px !important; font-weight:bold" for="email">Singapore(SG)</label>
+                <br />
+                <input type="radio" id="coo9" name="contact" value="Taiwan">
+                <label style="font-size:12px !important; font-weight:bold" for="email">Taiwan(TW)</label>
+
+            </div>
+            <div class="col-sm-3" style="margin-top:25px !important">
+                <input type="radio" id="coo10" name="contact" value="Italy">
+                <label style="font-size:12px !important; font-weight:bold" for="email">Italy(IT)</label>
+                <br />
+                <input type="radio" id="coo11" name="contact" value="Vietnam">
+                <label style="font-size:12px !important; font-weight:bold" for="email">Vietnam(VN)</label>
+                <br />
+                <input type="radio" id="coo12" name="contact" value="Germany">
+                <label style="font-size:12px !important; font-weight:bold" for="email">Germany(DE)</label>
+            </div>
+        </div>
+        <div class="row" style="margin-top: 10px !important; margin-left: 20px !important">
+
+
+            <div class="col-sm-3">
+
+                <label style="font-size:12px !important; font-weight:bold">Printer Name</label>
+                <select id="plabel11" type="text" placeholder="Select" class="dropdown-control border-0 shadow-sm px-4 text-primary">
+                    @*@if (@ViewBag.printer != null)
+        {
+            <option value="@ViewBag.printer">@ViewBag.printer</option>
+        }
+        else
+        {
+            <option value="">Select Printer </option>
+        }
+
+        @for (var i = 1; i <= @ViewBag.Printercount; i++)
+        {
+            if (@TempData["printer" + i] != null)
+            {
+                <option value=@TempData["printer" + i]>@TempData["printer" + i]</option>
+            }
+
+        }*@
+                    <option value="">Select Printer </option>
+        <option value="VYTEST">VyapiSoft Printer</option>
+                    @*<option value="">Select Printer </option>
+                    <option value="PIDSASHIP6">PIDSASHIP6</option>*@
+                </select>
+            </div>
+            <div class="col-sm-3">
+                <button type="button" id="printbutton" class="btn bg-print-btn-color btn-block text-uppercase mb-2 shadow-sm" style="margin-top: 20px !important; width: 100px !important" onclick="getlabledata()">Print</button>
+                <div class="spinner-border text-warning hidden" style="margin-top: 20px !important" id="spin"></div>
+            </div>
+        </div>
+        <div class="row" style="margin-top: 10px !important; margin-left: 20px !important">
+            <div class="col-sm-3">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <button type="button" class="btn bg-home-btn-color bg-home-btn-color btn-block text-uppercase mb-2  shadow-sm" style="margin-top: 20px !important; width: 100% !important" onclick="Home()">Home</button>
+
+                    </div>
+                    <div class="col-sm-6">
+                        <button type="button" href="Login" style="margin-left: 30px !important; margin-top: 20px !important; width: 100% !important" class="btn bg-logout-btn-color btn-block text-uppercase mb-2  shadow-sm" onclick="logOut()">Logout</button>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+}
+
+<script>
+    function focusevent(i) {
+        i = i + 1
+        $("#plabel" + i).focus();
+    }
+    function getlabledata() {
+        debugger
+        var coo = "";
+        var radios = document.getElementsByName('contact');
+        for (var radio of radios) {
+            if (radio.checked) {
+                coo = radio.value
+            }
+            else {
+                /*  alert("nothing select");*/
+            }
+        }
+        if ($.trim($('#plabel11').val()) != "") {
+            if ($.trim($("#plabel1").val()) != "") {
+                var Orderkey = $.trim($("#plabel1").val());
+                if (($.trim($("#plabel2").val()) != "") || ($.trim($("#plabel12").val()) != "")) {
+                    var sku = $.trim($("#plabel2").val());
+                    var orderlineno = $.trim($('#plabel12').val());
+
+                    if ((($.trim($("#plabel3").val()) != "") && ($.trim($("#plabel3").val()) != 0)) || (($.trim($("#plabel5").val()) != "") && ($.trim($("#plabel5").val()) != 0))) {
+
+                        var NoofLabels = $.trim($("#plabel5").val());
+                        var innercount = $.trim($("#plabel3").val());
+                        debugger
+                      
+                        if ((($.trim($("#plabel4").val()) != "") && ($.trim($("#plabel4").val()) != 0)) || (($.trim($("#plabel6").val()) != "") && ($.trim($("#plabel6").val()) != 0))) {
+                            var InnerQty = $.trim($("#plabel4").val());
+                            var OuterQty = $.trim($("#plabel6").val());
+                            if ((innercount <= 500) && (NoofLabels <= 500)) {
+                                if (coo != "") {
+                                    var COO = coo;
+                                    var mfdate = $.trim($("#plabel9").val());
+                                    var datecode = $.trim($("#plabel10").val());
+                                    var lot = $.trim($("#plabel7").val());
+                                    var wgt = $.trim($("#plabel8").val());
+                                    var printer = $.trim($('#plabel11').val());
+                                    var crossdock = "False";
+                                    var lpn = "";
+                                    $("#spin").toggle();
+                                    $("#printbutton").toggle();
+                                    var data = JSON.stringify
+                                        ({
+                                            'InnerQty': InnerQty,
+                                            'sku': sku,
+                                            'OuterQty': OuterQty,
+                                            'Orderkey': Orderkey,
+                                            'No_of_Labels': NoofLabels,
+                                            'COO': COO,
+                                            'mfdate': mfdate,
+                                            'datecode': datecode,
+                                            'lot': lot,
+                                            'wgt': wgt,
+                                            'printer': printer,
+                                            'innercount': innercount,
+                                            'crossdock': crossdock,
+                                            'lpn': lpn,
+                                            'orderlineno': orderlineno
+                                        });
+                                    $.ajax({
+                                        type: 'POST',
+                                        url: "/Pidsa/getOrderrValues",
+                                        data: data,
+                                        contentType: "application/json; charset=utf-8",
+
+                                        success: function (data) {
+                                            $("#spin").toggle();
+                                            $("#printbutton").toggle();
+                                            if (data) {
+                                                alert(data);
+                                            }
+                                        },
+                                    });
+                                }
+                                else {
+                                    alert("select Country")
+                                }
+                            }
+                            else {
+                                alert("Cannot process more thhan 500 lABEL")
+                            }
+                        
+
+                        }
+                        else {
+                            alert("Please provide Qty")
+                        }
+                
+                    
+                    }
+                    else {
+                        alert("Please Provide the No of Labels")
+                    }
+                }
+                else {
+                    alert("Please fill the Item or Lineno")
+                }
+            }
+            else {
+                alert("Please fill Orderkey")
+            }
+        }
+        else {
+            alert("Please select Printer")
+        }
+
+    }
+    function Home() {
+        window.location = "Home";
+    }
+    function logOut() {
+        window.location = "Login";
+    }
+</script>
+
+
+
+

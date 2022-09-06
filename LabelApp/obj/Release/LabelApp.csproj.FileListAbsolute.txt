@@ -1,0 +1,486 @@
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\LabelApp.dll.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\LabelApp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\LabelApp.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\csc.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\csc.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\csc.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\csi.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\csi.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\csi.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.AppContext.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Collections.Immutable.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Console.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.IO.Compression.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.IO.FileSystem.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Net.Http.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Net.Sockets.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.ValueTuple.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Xml.XPath.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\vbc.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\vbc.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\vbc.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\VBCSCompiler.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\roslyn\VBCSCompiler.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\Antlr3.Runtime.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\Microsoft.Web.Infrastructure.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\Newtonsoft.Json.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\System.Web.Helpers.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\System.Web.Mvc.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\System.Web.Optimization.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\System.Web.Razor.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\System.Web.WebPages.Deployment.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\System.Web.WebPages.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\System.Web.WebPages.Razor.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\WebGrease.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\System.Web.Helpers.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\System.Web.Mvc.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\System.Web.Optimization.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\System.Web.Razor.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\System.Web.WebPages.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\System.Web.WebPages.Deployment.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\System.Web.WebPages.Razor.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\Newtonsoft.Json.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\Antlr3.Runtime.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\obj\Release\LabelApp.csproj.AssemblyReference.cache
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\obj\Release\LabelApp.csproj.CoreCompileInputs.cache
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\obj\Release\LabelApp.csproj.CopyComplete
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\obj\Release\LabelApp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\obj\Release\LabelApp.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\BouncyCastle.Crypto.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp\LabelApp\LabelApp\bin\BouncyCastle.Crypto.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\LabelApp.dll.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\LabelApp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\LabelApp.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\csc.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\csc.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\csc.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\csi.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\csi.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\csi.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.AppContext.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Collections.Immutable.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Console.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.IO.Compression.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.IO.FileSystem.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Net.Http.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Net.Sockets.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.ValueTuple.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Xml.XPath.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\vbc.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\vbc.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\vbc.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\VBCSCompiler.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\roslyn\VBCSCompiler.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\Antlr3.Runtime.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\BouncyCastle.Crypto.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\Microsoft.Web.Infrastructure.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\Newtonsoft.Json.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\System.Web.Helpers.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\System.Web.Mvc.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\System.Web.Optimization.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\System.Web.Razor.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\System.Web.WebPages.Deployment.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\System.Web.WebPages.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\System.Web.WebPages.Razor.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\WebGrease.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\BouncyCastle.Crypto.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\System.Web.Helpers.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\System.Web.Mvc.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\System.Web.Optimization.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\System.Web.Razor.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\System.Web.WebPages.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\System.Web.WebPages.Deployment.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\System.Web.WebPages.Razor.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\Newtonsoft.Json.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\Antlr3.Runtime.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\obj\Release\LabelApp.csproj.AssemblyReference.cache
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\obj\Release\LabelApp.csproj.CoreCompileInputs.cache
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\obj\Release\LabelApp.csproj.CopyComplete
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\obj\Release\LabelApp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _Vyapi\LabelApp\LabelApp\obj\Release\LabelApp.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\LabelApp.dll.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\LabelApp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\LabelApp.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\csc.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\csc.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\csc.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\csi.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\csi.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\csi.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.AppContext.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Collections.Immutable.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Console.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.IO.Compression.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.IO.FileSystem.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Net.Http.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Net.Sockets.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.ValueTuple.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Xml.XPath.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\vbc.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\vbc.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\vbc.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\VBCSCompiler.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\roslyn\VBCSCompiler.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\Antlr3.Runtime.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\BouncyCastle.Crypto.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\Microsoft.Web.Infrastructure.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\Newtonsoft.Json.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\System.Web.Helpers.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\System.Web.Mvc.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\System.Web.Optimization.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\System.Web.Razor.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\System.Web.WebPages.Deployment.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\System.Web.WebPages.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\System.Web.WebPages.Razor.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\WebGrease.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\BouncyCastle.Crypto.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\System.Web.Helpers.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\System.Web.Mvc.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\System.Web.Optimization.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\System.Web.Razor.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\System.Web.WebPages.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\System.Web.WebPages.Deployment.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\System.Web.WebPages.Razor.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\Newtonsoft.Json.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\Antlr3.Runtime.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\obj\Release\LabelApp.csproj.AssemblyReference.cache
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\obj\Release\LabelApp.csproj.CoreCompileInputs.cache
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\obj\Release\LabelApp.csproj.CopyComplete
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\obj\Release\LabelApp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PROD_V2\LabelApp\LabelApp\obj\Release\LabelApp.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\LabelApp.dll.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\LabelApp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\LabelApp.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\csc.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\csc.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\csc.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\csi.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\csi.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\csi.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.AppContext.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Collections.Immutable.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Console.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.IO.Compression.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.IO.FileSystem.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Net.Http.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Net.Sockets.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.ValueTuple.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Xml.XPath.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\vbc.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\vbc.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\vbc.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\VBCSCompiler.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\VBCSCompiler.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\Antlr3.Runtime.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\BouncyCastle.Crypto.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\Microsoft.Web.Infrastructure.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\Newtonsoft.Json.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.Helpers.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.Mvc.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.Optimization.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.Razor.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.WebPages.Deployment.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.WebPages.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.WebPages.Razor.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\WebGrease.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\BouncyCastle.Crypto.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.Helpers.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.Mvc.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.Optimization.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.Razor.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.WebPages.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.WebPages.Deployment.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.WebPages.Razor.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\Newtonsoft.Json.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\Antlr3.Runtime.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\obj\Release\LabelApp.csproj.AssemblyReference.cache
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\obj\Release\LabelApp.csproj.CoreCompileInputs.cache
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\obj\Release\LabelApp.csproj.CopyComplete
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\obj\Release\LabelApp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\obj\Release\LabelApp.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\LabelApp.dll.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\LabelApp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\LabelApp.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\csc.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\csc.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\csc.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\csi.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\csi.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\csi.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.AppContext.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Collections.Immutable.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Console.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.IO.Compression.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.IO.FileSystem.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Net.Http.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Net.Sockets.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.ValueTuple.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Xml.XPath.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\vbc.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\vbc.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\vbc.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\VBCSCompiler.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\roslyn\VBCSCompiler.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\Antlr3.Runtime.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\BouncyCastle.Crypto.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\Microsoft.Web.Infrastructure.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\Newtonsoft.Json.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.Helpers.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.Mvc.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.Optimization.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.Razor.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.WebPages.Deployment.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.WebPages.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.WebPages.Razor.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\WebGrease.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\BouncyCastle.Crypto.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.Helpers.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.Mvc.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.Optimization.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.Razor.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.WebPages.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.WebPages.Deployment.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\System.Web.WebPages.Razor.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\Newtonsoft.Json.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\Antlr3.Runtime.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\obj\Release\LabelApp.csproj.AssemblyReference.cache
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\obj\Release\LabelApp.csproj.CoreCompileInputs.cache
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\obj\Release\LabelApp.csproj.CopyComplete
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\obj\Release\LabelApp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\Panassonic_labelapp _PRODV2_oldEdition\LabelApp\LabelApp\obj\Release\LabelApp.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\LabelApp.dll.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\LabelApp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\LabelApp.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\csc.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\csc.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\csc.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\csi.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\csi.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\csi.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.AppContext.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Collections.Immutable.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Console.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.IO.Compression.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.IO.FileSystem.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Net.Http.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Net.Sockets.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.ValueTuple.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Xml.XPath.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\vbc.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\vbc.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\vbc.rsp
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\VBCSCompiler.exe
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\roslyn\VBCSCompiler.exe.config
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\Antlr3.Runtime.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\BouncyCastle.Crypto.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\Microsoft.Web.Infrastructure.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\Newtonsoft.Json.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\System.Web.Helpers.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\System.Web.Mvc.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\System.Web.Optimization.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\System.Web.Razor.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\System.Web.WebPages.Deployment.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\System.Web.WebPages.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\System.Web.WebPages.Razor.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\WebGrease.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\BouncyCastle.Crypto.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\System.Web.Helpers.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\System.Web.Mvc.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\System.Web.Optimization.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\System.Web.Razor.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\System.Web.WebPages.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\System.Web.WebPages.Deployment.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\System.Web.WebPages.Razor.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\Newtonsoft.Json.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\Antlr3.Runtime.pdb
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\obj\Release\LabelApp.csproj.AssemblyReference.cache
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\obj\Release\LabelApp.csproj.CoreCompileInputs.cache
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\obj\Release\LabelApp.csproj.CopyComplete
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\obj\Release\LabelApp.dll
+D:\V_project\Panasonic_Projects\PIDSA_LABELAPP_V1.5_test\labelApp\panasonic_labelApp-oldeditionv1\LabelApp\LabelApp\obj\Release\LabelApp.pdb

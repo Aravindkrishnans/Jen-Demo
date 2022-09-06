@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewBag.Title = "Home";
+}
+
+<style>
+    .bg-logout-btn-color {
+        background-color: orangered;
+        color: white;
+    }
+
+    .bg-home-btn-color {
+        background-color: dodgerblue;
+        color: white;
+    }
+</style>
+
+<div class="col-sm-3">
+    <button type="button" class="btn bg-home-btn-color btn-block text-uppercase mb-2 shadow-sm" style="margin-top: 20px !important; width:100%" onclick="getCross()">Cross Dock Order Label</button>
+</div>
+<div class="col-sm-3">
+    <button type="button" class="btn bg-home-btn-color btn-block text-uppercase mb-2 shadow-sm" style="margin-top: 20px !important; width:100%" onclick="getInnerOuterLabel()">Standard Order Label</button>
+</div>
+
+<div class="col-sm-3">
+    <button type="button" class="btn bg-home-btn-color btn-block text-uppercase mb-2 shadow-sm" style="margin-top: 20px !important; width:100%" onclick="getreport()">Report</button>
+</div>
+
+<div class="col-sm-3">
+    <button type="button" class="btn bg-home-btn-color btn-block text-uppercase mb-2 shadow-sm" style="margin-top: 20px !important;width:100%" onclick="getItemLabel()">Item Label</button>
+</div>
+
+<div class="col-sm-3" style="margin-top:20px !important">
+    <button type="button" class="bg-logout-btn-color btn-block text-uppercase mb-2 shadow-sm" style="margin-top: 20px !important;width:100% " onclick="logOut()">Logout</button>
+</div>
+
+
+
+<script>
+    function logOut() {
+        window.location = "login"
+    }
+    function getItemLabel() {
+        window.location = "ItemLabel";
+    }
+    function getCross() {
+        window.location = "Cross";
+    }
+    function getInnerOuterLabel() {
+        window.location = "Label";
+    }
+    function getreport() {
+        window.location = "Report";
+
+    }
+</script>
+

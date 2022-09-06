@@ -1,0 +1,118 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+<!--Styles-->
+<style>
+
+
+    .bg-image {
+            background: url(../.././image/Sunland.png) center center no-repeat;
+
+/**/ /*;
+        background-repeat: no-repeat;*/
+        /*        height: 44vh;
+*/ /*background-position: center center;*/
+    }
+    .bg-btn-color{
+        background-color:orange;
+        color:white;
+    }
+</style>
+<!--Login Screen-->
+@using (Html.BeginForm("ValidateLogin", "Pidsa", FormMethod.Post, new { @name = "frmLogin", id = "frmLogin" }))
+{
+    <div class="container-fluid" style="margin-top:30px !important">
+        <div class="row no-gutter">
+            <!-- The image half -->
+            <div class="col-sm-6 d-none d-md-flex bg-image"></div>
+
+
+            <!-- The content half -->
+            <div class="col-md-6 bg-light">
+                <div class="login d-flex align-items-center py-5">
+
+                    <!-- Demo content-->
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-10 col-xl-7 mx-auto">
+                                <h3 class="display-4">Sun Land</h3>
+                                <p class="text-muted mb-4">Panasonic Label App</p>
+                                <form>
+                                    <div class="form-group mb-3">
+                                        <input id="UserName" type="text" placeholder="UserName" autofocus="" class="form-control rounded-pill border-0 shadow-sm px-4">
+                                    </div>
+                                    <div class="form-group mb-3">
+                                        <input id="pwd" type="password" placeholder="Password"   class="form-control rounded-pill border-0 shadow-sm px-4 text-primary">
+                                    </div>
+
+                                    <button type="button" class="btn bg-btn-color btn-block text-uppercase mb-2 rounded-pill shadow-sm" style="margin-top:10px !important" onclick="Validate()">Sign in</button>
+                                    <div class="text-center d-flex justify-content-between mt-4">
+                                      
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div><!-- End -->
+
+                </div>
+            </div><!-- End -->
+
+        </div>
+    </div>
+}
+
+<!--Function Script-->
+@*<script type="text/javascript"*@
+<script>
+
+    function Validate() {
+        console.log($.trim($("#UserName").val()));
+        if ($.trim($('#UserName').val()) != "") {
+            if ($.trim($('#pwd').val()) != "") {
+                console.log($.trim($('#pwd').val()))
+
+                    
+                var UserName = $.trim($("#UserName").val());
+                var pwd = $.trim($("#pwd").val());
+                        
+                                var data = JSON.stringify
+                                    ({
+                                        'UserName': UserName,
+                                        'pwd': pwd,
+                                    });
+                                $.ajax({
+                                    type: 'POST',
+                                    url: "/Pidsa/ValidateLogin",
+                                    data: data,
+                                    contentType: "application/json; charset=utf-8",
+
+                                    success: function (data) {
+                                        console.log(data)
+                                        if (data) {
+                                            if (data == "ValiUser") {
+                                                window.location = "Home";
+                                            }
+                                            else {
+                                                alert(data);
+                                            }
+                                            
+
+
+                                        }
+                                    },
+                                });
+            }
+            else {
+                alert("Please give Password");
+            }
+        }
+        else {
+            alert("Please gie valid username");
+        }
+    }
+
+</script>
+
+

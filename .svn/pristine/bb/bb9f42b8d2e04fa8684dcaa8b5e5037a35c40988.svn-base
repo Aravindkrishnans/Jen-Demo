@@ -1,0 +1,42 @@
+<html>
+<head>
+    <body>
+        <script type="text/javascript" src="~/Scripts/kendo/Latest/jquery.min.js"></script>
+        <script type="text/javascript" src="~/Content/session/jquery.idle.js"></script>
+        <script type="text/javascript">
+            $(document).idle({
+                onIdle: function () {
+                    $('#status').toggleClass('idle').html('Idle!');
+                    alert('TimeOut');
+                    window.location = "http://www.google.com";
+                },
+                onActive: function () {
+                    $('#status').toggleClass('idle').html('Active!');
+                },
+                onHide: function () {
+                    $('#visibility').toggleClass('idle').html('Hidden!');
+                },
+                onShow: function () {
+                    // Add a slight pause so you can see the change
+                    setTimeout(function () {
+                        $('#visibility').toggleClass('idle').html('Visible!');
+                    }, 250);
+                },
+                idle: 12000,
+                keepTracking: true
+            });
+        </script>
+    </body>
+<title>Test</title>
+<script src="https://ajax.googleapis.com..."></script>
+<script type="text/javascript" src="jquery.scannerdetection.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+$("#barcode").scannerDetection({
+timeBeforeScanTest: 200, // wait for the next character for upto 200ms
+startChar: [120], // Prefix character for the cabled scanner (OPL6845R)
+endChar: [13], // be sure the scan is complete if key 13 (enter) is detected
+avgTimeByChar: 40, // it's not a barcode if a character takes longer than 40ms
+onComplete: function(barcode, qty){ console.log(barcode); return false;} // main callback function
+});
+});

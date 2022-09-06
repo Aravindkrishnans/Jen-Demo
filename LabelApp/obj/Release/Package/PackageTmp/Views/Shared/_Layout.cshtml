@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panasonic Label App</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+
+    <div class="container body-content">
+        <header>
+            <table>
+                <tr>
+                    <td>
+                        @if ((Request.RawUrl != "") && (Request.RawUrl != "/") && (Request.RawUrl != "/Pidsa/Login") && (Request.RawUrl != "/Pidsa/login"))
+                        {
+                            <img src="~/image/Sunland.png" style="width:170px" />
+
+                        }
+                    </td>
+                    <td>
+                    </td>
+               
+                </tr>
+
+            </table>
+
+        </header>
+        @RenderBody()
+
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @*@Scripts.Render("~/bundles/bootstrap")*@
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+<style>
+    body {
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+</style>
+
+
